@@ -24,6 +24,7 @@ result=np.linalg.solve(a,b)
 print(np.linalg.solve(a,b))
 ```
 ## Output:
+
 ![output](/Screenshot%202023-07-24%20102942.png)
 
 ## Result: 
